@@ -1,6 +1,6 @@
-# Google IT Support Specialist : <a target="_blank" href="https://dee-swe.netlify.app/">Visit Here</a>
+# Google IT Support Specialist : <a target="_blank" href="https://www.coursera.org/account/accomplishments/professional-cert/HMWPCP968XFU">Visit Here</a>
 
-<a target="_blank" href="https://dee-swe.netlify.app/">
+<a target="_blank" href="https://www.coursera.org/account/accomplishments/professional-cert/HMWPCP968XFU">
 <img src="https://github.com/dee2314/hostingFiles/blob/master/google-cert-image.PNG?raw=true" width="100%" alt="Certification"/>
 </a>
 
