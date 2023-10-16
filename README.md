@@ -1,7 +1,7 @@
 # Google IT Support Specialist : <a target="_blank" href="https://dee-swe.netlify.app/">Visit Here</a>
 
 <a target="_blank" href="https://dee-swe.netlify.app/">
-<img src="https://media.giphy.com/media/l0yNa0CgzJHBLsz6x3/giphy.gif" width="100%" alt="Portfolio"/>
+<img src="https://github.com/dee2314/hostingFiles/blob/master/google-cert-image.PNG?raw=true" width="100%" alt="Certification"/>
 </a>
 
 ### I diligently pursued my Google IT Certification with the aim of acquiring the foundational skills essential for pursuing entry-level positions in IT Support. This certification represents my commitment to professional development in the field of information technology.
