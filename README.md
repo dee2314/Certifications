@@ -6,7 +6,7 @@
 
 ### I diligently pursued my Google IT Certification with the aim of acquiring the foundational skills essential for pursuing entry-level positions in IT Support. This certification represents my commitment to professional development in the field of information technology.
 
-## Tech used: ![LINUX](https://img.shields.io/static/v1?label=|&message=LINUX&color=9851F7&style=plastic&logo=linux)!
+## Tech used: ![LINUX](https://img.shields.io/static/v1?label=|&message=LINUX&color=9851F7&style=plastic&logo=linux)![OS](https://img.shields.io/static/v1?label=|&message=OS&color=9851F7&style=plastic&logo=os)
 
 These courses incorporate practical, hands-on assessments and are meticulously crafted to equip individuals for entry-level positions in IT support. My proficiency encompasses essential skills such as troubleshooting, customer service, networking, operating systems, system administration, and security.
 
